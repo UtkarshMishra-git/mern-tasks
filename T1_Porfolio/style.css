@@ -1,0 +1,120 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#box1 {
+    height: 40%;
+    width:auto;
+    background-color: rgb(0, 0, 80);
+    align-content: center;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+
+#box1 h1{
+    color: white;
+    font-size: 50;
+    font-weight:bolder;
+}
+
+#box1 p{
+    color: white;
+    font-size: 12px;
+    font-style: italic;
+}
+
+/* About Me */
+
+#about{
+    height: 200%;
+    background-color:rgb(240, 238, 238);
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 20px;
+    text-align: center;
+    margin-top: 40px;
+}
+
+h2{
+    font-size:20px ;
+    font-weight: 800;
+}
+#about p{
+    font-size: small;
+    color: rgb(153, 152, 152);
+}
+
+/* Education */
+#education{
+    height: 200%;
+    background-color:rgb(182, 234, 255);
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 20px;
+    text-align: center;
+    margin-top: 40px;
+}
+
+#education div, #skills div, #project div,#contact div{
+    background-color: white;
+    height: 100%;
+    height: auto;
+    margin-top: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 10px;
+}
+
+/* skills */
+#skills{
+    height: 200%;
+    background-color:rgb(255, 248, 182);
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 20px;
+    text-align: center;
+    margin-top: 40px;
+}
+#skills div{
+    font-weight: bolder;
+}
+
+/* Project */
+#project{
+    height: 200%;
+    background-color:rgb(248, 211, 255);
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 20px;
+    text-align: center;
+    margin-top: 40px;
+}
+
+#project div{
+    font-style: italic;
+}
+
+/* Contact Me */
+#contact{
+    height: 200%;
+    background-color:rgb(193, 250, 193);
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 20px;
+    text-align: center;
+    margin-top: 40px;
+}
+footer{
+    background-color:rgb(0, 0, 80);
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+}
+
+footer p{
+    color: white;
+    font-size: 8pt;
+    font-family: Arial, Helvetica, sans-serif;
+}
